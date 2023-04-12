@@ -5,6 +5,12 @@
 
 In this dungeon, you will face obstacles that represent the hardships we often encounter in our daily lives, from self-doubt and fear to adversity and setbacks. But fear not, for you won't face these challenges alone. Along the way, you may meet fellow adventurer who will offer their support and friendship, helping you navigate the treacherous paths ahead. As you progress, you will uncover the true meaning of fortitude - the strength and resilience that comes from within, and the power of friendship to overcome even the toughest of obstacles. Are you ready to embark on this extraordinary adventure, where the bonds of friendship and the lessons of life intertwine? Prepare to embark on a journey like no other in "Path of Fortitude: A Dungeon of Life".
 
+## Contents
+1. main.py: The main executable python file that will run the game in the terminal
+2. Images: Contains Hint 1.jpg, Samp_Vid.mp4, and skull.jpg which are used in the main.py
+3. ascii.py: Python file that converts pictures to ascii format to display in the terminal
+4. Timecount.py: Python file that calculates the tap and timecount for a mission being used in the game
+
 ## How to run
 1. Install the missing modules using pip install
 2. Change the names of player and author in main files .
